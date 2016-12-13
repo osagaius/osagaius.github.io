@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  I'm a technologist helping build companies, while thinking deeply about culture.
+  I am a technologist helping build companies, whilst thinking deeply about culture.
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [thought]
