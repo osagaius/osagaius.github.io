@@ -45,6 +45,14 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
+    I currently work at [Luma](http://lumahome.com), on kick-ass WiFi tech, in Atlanta, Georgia,
+
+    I strongly believe that great technology should have a global impact. This stems from the fact that I grew up in Nigeria with little exposure to the consumer internet.
+
+    For the last six years, I have focused deeply on web technologies, machine learning, and robotics.
+    I have built and deployed complex systems in various programming languages.
+
+    I am currently focused on building real-time consumer products using functional and reactive programming techniques.
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
